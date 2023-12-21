@@ -1,0 +1,24 @@
+AdminTool:
+  version: 1.0
+  download: 
+  name: AdminTool
+BetterMessage:
+  version: 1.0
+  download: 
+  name: BetterMessage
+ChatModule:
+  version: 1.0
+  download: 
+  name: ChatModule
+CooldownModule:
+  version: 1.0
+  download: 
+  name: CooldownModule
+Crop:
+  version: 1.0
+  download: 
+  name: Crop
+DeathCoords:
+  version: 1.0
+  download: 
+  name: DeathCoords
