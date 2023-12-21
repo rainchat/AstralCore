@@ -1,44 +1,44 @@
 AdminTool:
   version: 1.0
-  download: https://github.com/rainchat/AstralCore/blob/main/modules/AdminTool-1.0.jar
+  download: https://github.com/rainchat/AstralCore/raw/main/modules/AdminTool-1.0.jar
   name: AdminTool
 BetterMessage:
   version: 1.0
-  download: https://github.com/rainchat/AstralCore/blob/main/modules/BetterMessageModule-1.0.jar
+  download: https://github.com/rainchat/AstralCore/raw/main/modules/BetterMessageModule-1.0.jar
   name: BetterMessage
 ChatModule:
   version: 1.0
-  download: https://github.com/rainchat/AstralCore/blob/main/modules/ChatModule-1.0.jar
+  download: https://github.com/rainchat/AstralCore/raw/main/modules/ChatModule-1.0.jar
   name: ChatModule
 CooldownModule:
   version: 1.0
-  download: https://github.com/rainchat/AstralCore/blob/main/modules/CooldownModule-1.0.jar
+  download: https://github.com/rainchat/AstralCore/raw/main/modules/CooldownModule-1.0.jar
   name: CooldownModule
 Crop:
   version: 1.0
-  download: https://github.com/rainchat/AstralCore/blob/main/modules/Crop-1.0-SNAPSHOT.jar
+  download: https://github.com/rainchat/AstralCore/raw/main/modules/Crop-1.0-SNAPSHOT.jar
   name: Crop
 DeathCoords:
   version: 1.0
-  download: https://github.com/rainchat/AstralCore/blob/main/modules/Crop-1.0-SNAPSHOT.jar
+  download: https://github.com/rainchat/AstralCore/raw/main/modules/Crop-1.0-SNAPSHOT.jar
   name: DeathCoords
 DonateModule:
   version: 1.0
-  download: https://github.com/rainchat/AstralCore/blob/main/modules/DonateModule-1.0.jar
+  download: https://github.com/rainchat/AstralCore/raw/main/modules/DonateModule-1.0.jar
   name: DonateModule
 HelpModule:
   version: 1.0
-  download: https://github.com/rainchat/AstralCore/blob/main/modules/HelpModule-1.0.jar
+  download: https://github.com/rainchat/AstralCore/raw/main/modules/HelpModule-1.0.jar
   name: HelpModule
 LobbyAddon:
   version: 1.0
-  download: https://github.com/rainchat/AstralCore/blob/main/modules/LobbyAddon-1.0.jar
+  download: https://github.com/rainchat/AstralCore/raw/main/modules/LobbyAddon-1.0.jar
   name: LobbyAddon
 PromoCode:
   version: 1.0
-  download: https://github.com/rainchat/AstralCore/blob/main/modules/PromoCode-1.0.jar
+  download: https://github.com/rainchat/AstralCore/raw/main/modules/PromoCode-1.0.jar
   name: PromoCode
 Scoreboard:
   version: 1.0
-  download: https://github.com/rainchat/AstralCore/blob/main/modules/ScoreboardModule.jar
+  download: https://github.com/rainchat/AstralCore/raw/main/modules/ScoreboardModule.jar
   name: ScoreboardModule
